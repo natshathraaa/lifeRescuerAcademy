@@ -1,0 +1,12 @@
+{
+  "heading": "Why Choose Life Rescuer Academy",
+  "subtitle": "Six reasons healthcare institutions, schools and organizations trust us with their emergency training.",
+  "items": [
+    { "icon": "GiDoctorFace", "title": "Expert Instructors", "text": "Learn from instructors with real clinical experience in emergency and critical care." },
+    { "icon": "FaHandsHelping", "title": "Hands-On Practical Training", "text": "Every module is built around live simulation, not passive classroom lectures." },
+    { "icon": "FaUsers", "title": "Small Batch Sizes", "text": "Focused, personalized learning with plenty of one-on-one guidance from instructors." },
+    { "icon": "FaClipboardCheck", "title": "Modern Teaching Methods", "text": "Updated course content and simulation-based methods aligned with current practice." },
+    { "icon": "FaHospital", "title": "Training For Every Setting", "text": "Programs designed for corporates, hospitals, colleges and community groups." },
+    { "icon": "FaCalendarCheck", "title": "Confidence Through Practice", "text": "Repetition and real scenario practice so skills stay ready when they're needed." }
+  ]
+}
