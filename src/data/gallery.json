@@ -1,0 +1,30 @@
+{
+  "heading": "Training In Action",
+  "items": [
+    {
+      "title": "NCC Cadet CPR & AED Training",
+      "caption": "Cadets practicing chest compressions and AED use on training manikins",
+      "image": "/gallery/cpr-aed-training.jpeg"
+    },
+    {
+      "title": "Community Emergency Response Workshop",
+      "caption": "A hands-on group session teaching CPR to community participants",
+      "image": "/gallery/community-workshop.jpeg"
+    },
+    {
+      "title": "Nursing Batch Certification",
+      "caption": "Nursing staff and trainers after completing a life support certification program",
+      "image": "/gallery/nursing-batch-certification.jpeg"
+    },
+    {
+      "title": "Cadet Training Batch",
+      "caption": "An NCC cadet batch with instructors following their training program",
+      "image": "/gallery/cadet-training-batch.jpeg"
+    },
+    {
+      "title": "Airway Management Practice",
+      "caption": "Trainees practicing advanced airway management technique under instructor guidance",
+      "image": "/gallery/airway-management-practice.jpeg"
+    }
+  ]
+}
