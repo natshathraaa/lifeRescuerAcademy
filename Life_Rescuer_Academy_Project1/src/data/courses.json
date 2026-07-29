@@ -1,0 +1,83 @@
+{
+  "heading": "Learn. Practice. Save Lives.",
+  "items": [
+    {
+      "icon": "FaHeartbeat",
+      "title": "Basic Life Support (BLS)",
+      "short": "BLS Certification",
+      "description": "Comprehensive training equipping healthcare providers and emergency responders with critical life-saving skills across all age groups.",
+      "bullets": [
+        "Adult BLS",
+        "Pediatric BLS",
+        "Infant BLS"
+      ]
+    },
+    {
+      "icon": "FaHandHoldingHeart",
+      "title": "CPR Training",
+      "short": "Cardiopulmonary Resuscitation",
+      "description": "Hands-on CPR instruction and foreign body airway obstruction relief tailored for real-world emergency scenarios.",
+      "bullets": [
+        "Adult CPR",
+        "Pediatric CPR",
+        "Infant CPR",
+        "Choking Management for Adults, Children and Infants"
+      ]
+    },
+    {
+      "icon": "FaLungs",
+      "title": "Airway Management",
+      "short": "Airway Assessment & Techniques",
+      "description": "Essential airway assessment and basic airway management techniques during medical emergencies.",
+      "bullets": [
+        "Airway Assessment & Evaluation",
+        "Basic Airway Opening Techniques",
+        "Ventilation & Barrier Devices"
+      ]
+    },
+    {
+      "icon": "FaBriefcaseMedical",
+      "title": "First Aid Training",
+      "short": "Emergency First Aid",
+      "description": "Practical training to confidently manage everyday injuries, bleeding, fractures, and acute medical situations.",
+      "bullets": [
+        "Wound & Bleeding Care",
+        "Fracture & Burn Management",
+        "Emergency Medical Assessment"
+      ]
+    },
+    {
+      "icon": "FaStethoscope",
+      "title": "ACLS",
+      "short": "Advanced Cardiovascular Life Support",
+      "description": "Advanced algorithms for managing cardiac arrest, stroke, and acute cardiovascular emergencies in clinical settings.",
+      "bullets": [
+        "ECG Rhythm Identification",
+        "Pharmacology & Resuscitation",
+        "High-Performance Team Dynamics"
+      ]
+    },
+    {
+      "icon": "FaBolt",
+      "title": "AED Training",
+      "short": "Automated External Defibrillator",
+      "description": "Learn to safely and confidently operate an AED during sudden cardiac arrest emergencies.",
+      "bullets": [
+        "AED Operation & Pad Placement",
+        "Integration with High-Quality CPR",
+        "Special AED Considerations"
+      ]
+    },
+    {
+      "icon": "FaAmbulance",
+      "title": "Emergency Response",
+      "short": "Rapid Emergency Action",
+      "description": "Structured training on scene safety, patient assessment, prioritizing, and initiating rapid emergency response.",
+      "bullets": [
+        "Rapid Triage & Assessment",
+        "Crisis Team Communication",
+        "Pre-Hospital Emergency Care"
+      ]
+    }
+  ]
+}

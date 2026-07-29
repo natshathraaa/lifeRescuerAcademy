@@ -1,0 +1,8 @@
+[
+  { "label": "Home", "href": "#home" },
+  { "label": "About Us", "href": "#about" },
+  { "label": "Courses", "href": "#courses" },
+  { "label": "Gallery", "href": "#gallery" },
+  { "label": "Why Choose Us", "href": "#why-us" },
+  { "label": "Contact", "href": "#contact" }
+]

@@ -1,0 +1,42 @@
+{
+  "heading": "What Our Trainees Say",
+  "subtitle": "Placeholder testimonials — replace names, quotes and photos with real feedback from academy trainees.",
+  "items": [
+    {
+      "name": "Trainee Name",
+      "role": "NCC Cadet",
+      "quote": "The hands-on CPR and AED session gave me real confidence. I finally understand what to do in the first few minutes of an emergency.",
+      "photo": null
+    },
+    {
+      "name": "Trainee Name",
+      "role": "Staff Nurse",
+      "quote": "Small batch sizes meant every person got individual correction on technique. It didn't feel like a formality — it felt like real training.",
+      "photo": null
+    },
+    {
+      "name": "Trainee Name",
+      "role": "Corporate Participant",
+      "quote": "Our whole team went through the workshop together. Everyone left knowing exactly how to respond if a colleague collapsed at work.",
+      "photo": null
+    },
+    {
+      "name": "Trainee Name",
+      "role": "School Teacher",
+      "quote": "As a teacher, I now feel prepared to help a student in a medical emergency before help arrives. This training should be mandatory.",
+      "photo": null
+    },
+    {
+      "name": "Trainee Name",
+      "role": "Community Participant",
+      "quote": "I never thought I'd be able to perform CPR confidently. The instructors made a stressful topic approachable and easy to practice.",
+      "photo": null
+    },
+    {
+      "name": "Trainee Name",
+      "role": "Medical Student",
+      "quote": "The simulation-based airway management session was more useful than months of theory. Practical, focused and well taught.",
+      "photo": null
+    }
+  ]
+}
