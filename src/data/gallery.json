@@ -2,19 +2,14 @@
   "heading": "Training In Action",
   "items": [
     {
-      "title": "NCC Cadet CPR & AED Training",
-      "caption": "Cadets practicing chest compressions and AED use on training manikins",
-      "image": "/gallery/cpr-aed-training.jpeg"
-    },
-    {
       "title": "Community Emergency Response Workshop",
       "caption": "A hands-on group session teaching CPR to community participants",
       "image": "/gallery/community-workshop.jpeg"
     },
     {
-      "title": "Nursing Batch Certification",
-      "caption": "Nursing staff and trainers after completing a life support certification program",
-      "image": "/gallery/nursing-batch-certification.jpeg"
+      "title": "NCC Cadet CPR & AED Training",
+      "caption": "Cadets practicing chest compressions and AED use on training manikins",
+      "image": "/gallery/cpr-aed-training.jpeg"
     },
     {
       "title": "Cadet Training Batch",
@@ -25,6 +20,76 @@
       "title": "Airway Management Practice",
       "caption": "Trainees practicing advanced airway management technique under instructor guidance",
       "image": "/gallery/airway-management-practice.jpeg"
+    },
+    {
+      "title": "Nursing Batch Certification",
+      "caption": "Nursing staff and trainers after completing a life support certification program",
+      "image": "/gallery/nursing-batch-certification.jpeg"
+    },
+    {
+      "title": "Client CPR Demonstration",
+      "caption": "A hands-on CPR demonstration led by the client with a training manikin",
+      "image": "/gallery/client-cpr-demonstration.jpeg"
+    },
+    {
+      "title": "Client CPR Practice",
+      "caption": "Participants practicing chest compressions during a client-led session",
+      "image": "/gallery/client-cpr-practice-01.jpeg"
+    },
+    {
+      "title": "Client First Aid Practice",
+      "caption": "A practical first aid exercise with trainees and instructors",
+      "image": "/gallery/client-first-aid-practice.jpeg"
+    },
+    {
+      "title": "Client Training Room",
+      "caption": "A client-led training session with learners working around a manikin",
+      "image": "/gallery/client-training-room.jpeg"
+    },
+    {
+      "title": "Cadet Discussion",
+      "caption": "Cadets gathering for instruction and practical discussion",
+      "image": "/gallery/cadet-discussion.jpeg"
+    },
+    {
+      "title": "Training Session 01",
+      "caption": "Learners taking part in a practical emergency response session",
+      "image": "/gallery/training-session-01.jpeg"
+    },
+    {
+      "title": "Training Session 02",
+      "caption": "A group training moment from a hands-on life support program",
+      "image": "/gallery/training-session-02.jpeg"
+    },
+    {
+      "title": "Training Session 03",
+      "caption": "Participants learning and practicing essential response skills",
+      "image": "/gallery/training-session-03.jpeg"
+    },
+    {
+      "title": "Training Session 04",
+      "caption": "A practical training activity with instructors and participants",
+      "image": "/gallery/training-session-04.jpeg"
+    },
+    {
+      "title": "Training Session 05",
+      "caption": "Learners building confidence through supervised practice",
+      "image": "/gallery/training-session-05.jpeg"
+    },
+    {
+      "title": "Training Session 06",
+      "caption": "A documented group session focused on emergency care skills",
+      "image": "/gallery/training-session-06.jpeg"
+    },
+    {
+      "title": "Training Session 07",
+      "caption": "Participants working together during practical instruction",
+      "image": "/gallery/training-session-07.jpeg"
+    },
+    {
+      "title": "Training Session 08",
+      "caption": "Another hands-on learning moment from the training program",
+      "image": "/gallery/training-session-08.jpeg"
     }
   ]
 }
